@@ -1,0 +1,16 @@
+C:\Ricardo\estudo\csharp\transferencia\bin\Debug\net5.0\transferencia.exe
+C:\Ricardo\estudo\csharp\transferencia\bin\Debug\net5.0\transferencia.deps.json
+C:\Ricardo\estudo\csharp\transferencia\bin\Debug\net5.0\transferencia.runtimeconfig.json
+C:\Ricardo\estudo\csharp\transferencia\bin\Debug\net5.0\transferencia.runtimeconfig.dev.json
+C:\Ricardo\estudo\csharp\transferencia\bin\Debug\net5.0\transferencia.dll
+C:\Ricardo\estudo\csharp\transferencia\bin\Debug\net5.0\ref\transferencia.dll
+C:\Ricardo\estudo\csharp\transferencia\bin\Debug\net5.0\transferencia.pdb
+C:\Ricardo\estudo\csharp\transferencia\obj\Debug\net5.0\transferencia.csprojAssemblyReference.cache
+C:\Ricardo\estudo\csharp\transferencia\obj\Debug\net5.0\transferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ricardo\estudo\csharp\transferencia\obj\Debug\net5.0\transferencia.AssemblyInfoInputs.cache
+C:\Ricardo\estudo\csharp\transferencia\obj\Debug\net5.0\transferencia.AssemblyInfo.cs
+C:\Ricardo\estudo\csharp\transferencia\obj\Debug\net5.0\transferencia.csproj.CoreCompileInputs.cache
+C:\Ricardo\estudo\csharp\transferencia\obj\Debug\net5.0\transferencia.dll
+C:\Ricardo\estudo\csharp\transferencia\obj\Debug\net5.0\ref\transferencia.dll
+C:\Ricardo\estudo\csharp\transferencia\obj\Debug\net5.0\transferencia.pdb
+C:\Ricardo\estudo\csharp\transferencia\obj\Debug\net5.0\transferencia.genruntimeconfig.cache
